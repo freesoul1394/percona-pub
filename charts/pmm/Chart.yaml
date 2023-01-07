@@ -1,0 +1,20 @@
+apiVersion: v2
+name: pmm
+description: A Helm chart for Percona Monitoring and Management (PMM)
+type: application
+version: 0.5.0
+appVersion: "2.33.0"
+home: https://github.com/percona/pmm
+maintainers:
+  - name: gen1us2k
+    email: andrew.minkin@percona.com
+  - name: tplavcic
+    email: tomislav.plavcic@percona.com
+  - name: denisok
+    email: denys.kondratenko@percona.com
+  - name: spron-in
+    email: sergey.pronin@percona.com
+keywords:
+  - PMM
+  - Monitoring
+icon: https://www.percona.com/sites/default/files/pmm-logo.png
